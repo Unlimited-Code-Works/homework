@@ -3,7 +3,7 @@
 
 ## how to start
 
-  you can play this through a x-mind map given by @centsend.
+  you can play this through a x-mind map given by [@centsent](https://github.com/centsent).
 
 ## preparation
 

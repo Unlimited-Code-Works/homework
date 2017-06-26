@@ -3,7 +3,7 @@
 
 ## how to start
 
-  you can play this through a x-mind map given by [@centsent](https://github.com/centsent).
+  you can play this through a [x-mind map](https://github.com/Unlimited-Code-Works/homework/blob/master/python-stack.png) given by [@centsent](https://github.com/centsent).
 
 ## preparation
 

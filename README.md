@@ -1,5 +1,5 @@
 # homework
-  This repository is prepared for python learners. for now.
+  This repository is prepared for python leaners. for now.
 
 ## how to start
 
